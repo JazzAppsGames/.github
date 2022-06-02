@@ -16,5 +16,5 @@
 - [SteamWorks (FacePunch C# Wrapper)](https://wiki.facepunch.com/steamworks/)
 - [GitHub](https://github.com/JazzAppsGames)
 
-## Want to join?
+## Want to join or partner?
 Add `JazzyLucas#0749` on Discord to discuss developing with JazzApps.
