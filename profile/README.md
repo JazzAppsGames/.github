@@ -5,7 +5,7 @@
 - Based in the USA
 - Making cool stuff since 2019
 
-## What that we've made:
+## What we make:
 #### Ball Boys ([Steam](https://store.steampowered.com/app/1799290/Ball_Boys/), [Google Play](https://play.google.com/store/apps/details?id=com.JazzApps.BallBoys))
 #### Voxel Vanquish: Tower Defense ([Google Play](https://play.google.com/store/apps/details?id=com.JazzApps.VoxelVanquish))
 
